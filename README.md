@@ -19,10 +19,7 @@ Built as a first-year project at Metropolia UAS, this game combines education wi
 - Responsive Web Design
 
 ## 🚀 Live Demo
-[Add link if deployed]
-
-## 📸 Screenshots
-[Add screenshots]
+[link](https://youtu.be/0ZdZR-Iwje0?si=X9d6HwyWhUuaiXeI)
 
 ## 🎯 My Role
 Development handling:
